@@ -13,7 +13,7 @@
 # :dart: Desafio de Projeto: Criar um Mini Game
 
 
-> Este repositório contém um projeto desenvolvido no módulo de treinamento de introdução ao C# da [Microsoft Learn](https://learn.microsoft.com/). Este projeto está dentro dos requisitos necessários de qualificação para o Exame de Certificação `Foundational C#`.
+> Este repositório contém um projeto desenvolvido no módulo de treinamento de introdução ao C# da [Microsoft Learn](https://learn.microsoft.com/). Este projeto está dentro dos requisitos de qualificação para o Exame de Certificação `Foundational C#`.
 >
 > Objetivos de Aprendizagem:
 >> - Use o Visual Studio Code para desenvolver um aplicativo de console em C# que use métodos para implementar fluxos de trabalho lógicos.

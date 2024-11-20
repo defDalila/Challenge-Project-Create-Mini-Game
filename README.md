@@ -1,6 +1,4 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
- ### ![Static Badge](https://img.shields.io/badge/status-em_desenvolvimento-cyan)         
+### ![Static Badge](https://img.shields.io/badge/status-em_desenvolvimento-cyan)         
 
 # :dart: Desafio de Projeto: Criar um Mini Game
 
@@ -12,11 +10,11 @@
 >> - Entenda o código existente e faça alterações de design fundamentadas em dados.
 >> - Crie valores retornados, bem como parâmetros obrigatórios e opcionais em métodos.
 
-         
           
 <br>
 
 ## :beginner: Contexto
+Suponha que você deseja criar um jogo próprio. Talvez você não esteja pronto para desenvolver um jogo completo, então decide começar da menor maneira possível. Você deseja mover o personagem pela tela e fazê-lo consumir um objeto. O consumo do objeto pode afetar o estado do jogador. Para manter o jogo funcionando, você queria regenerar o objeto em um novo local depois que ele tiver sido consumido. Você decide que precisará usar métodos para manter o código do jogo organizado.
 
 Você deverá desenvolver um mini-jogo pequeno. Seu aplicativo deve estabelecer as noções básicas do jogo, incluindo atualizar o estado do jogador, manipular o movimento do jogador e consumir e regenerar um objeto de alimento.
 
@@ -51,7 +49,7 @@ O [Projeto de Código Starter](https://github.com/MicrosoftLearning/Challenge-pr
 - Código para determinar se a comida consumida deve congelar o movimento do jogador.
 - Código para determinar se a comida consumida deve aumentar o movimento do jogador.
 - Código para aumentar a velocidade de movimento.
-- Código para redisplay a comida após ser consumida pelo jogador.
+- Código para re-exibir a comida após ser consumida pelo jogador.
 - Código para terminar a execução se uma tecla não suportada for pressionada.
 - Código para terminar a execução se o terminal foi redimensionado.
 
@@ -152,6 +150,3 @@ Adicionar um recurso opcional que detecte se a aparência do jogador é `(^-^)` 
 1. Desabilite o parâmetro de velocidade de movimentação opcional e execute novamente o aplicativo.
 1. Verifique se o movimento é normal quando a aparência do jogador é `(^-^)`.
 
-<br>
-
-## <p align="center"><i class="devicon-csharp-plain-wordmark colored"></i> <i class="devicon-vscode-plain colored"></i> <i class="devicon-git-plain colored"></i>  <i class="devicon-github-original colored"></i></p>
